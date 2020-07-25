@@ -1,0 +1,14 @@
+{
+  "name": "color-picker",
+  "version": "1.0.0",
+  "description": "mini Vue Js learning project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Prdt (with DYMA)",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
+}
